@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a developer passionate about building secure, scalable, responsive, maintainable, reliable, cloud-native, containerized, with CI/CD automated web applications based in India.
+I'm a developer based in India, who is passionate about building secure, scalable, responsive, maintainable, reliable, cloud-native, containerized, with CI/CD automated web applications.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sai-santhan-dodda) 
