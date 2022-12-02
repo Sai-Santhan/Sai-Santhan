@@ -5,7 +5,7 @@ I'm a developer based in India, who is passionate about building secure, scalabl
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sai-santhan-dodda) 
 
 # Projects:
-[Sales Report Generator(Data Analysis)](https://data-analysis.live)
+> ### [Sales Report Generator(Data Analysis)](https://data-analysis.live)
 
 # Languages and Tools:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
