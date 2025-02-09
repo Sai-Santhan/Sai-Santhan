@@ -1,5 +1,13 @@
 # 💫 About Me:
-I'm a developer based in India, who is passionate about building secure, scalable, responsive, maintainable, reliable, cloud-native, containerized, with CI/CD automated web applications.
+Results-driven AI Software Engineer with 4 years of experience in designing and implementing cutting-edge AI applications and machine learning algorithms.
+• Proficient in Python, JavaScript/TypeScript, and data management tools. 
+• Strong expertise in AI software development, data engineering, real-time processing, root-cause analysis, working with Large Language Models (LLMs), and multi-agent systems.
+• Demonstrated ability to effectively communicate with cross-function team members to deliver innovative projects on time.
+• Equipped with a Bachelor's Degree in a Computer Science related field and a solid understanding of Agile software development methodologies, ensuring accountability and high organizational standards.
+• Committed to continual improvement, ethical work standards, and leveraging analytical skills to resolve complex problems.
+• Passionate about staying updated with the latest advancements in AI technology and contributing to the field through effective teamwork and relationship building.
+
+I work at Unnanu, an AI technology startup based in Austin, TX. Our company has developed a patented AI-powered search solution that revolutionizes the way businesses retrieve data, content, and models. We help enterprise clients seamlessly transition from traditional search methods to AI-driven technology while keeping all assets secure within their infrastructure. Unnanu’s technology offers a distinctive approach to AI-powered search by leveraging private AI models instead of generative AI.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sai-santhan-dodda) 
